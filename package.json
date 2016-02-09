@@ -1,16 +1,16 @@
 {
-  "name": "BeavisBot",
+  "name": "nipbot",
   "description": "A customizable social music room bot",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "keywords": [
     "dubtrack",
     "dubtrack.fm"
   ],
   "repository": {
     "type": "git",
-    "url": "git://github.com/AvatarKava/beavisbot-dubtrack-fm.git"
+    "url": "git://github.com/mreinhardt/nipbot.git"
   },
-  "author": "Mike Burke <mburke@phpmonkeys.com>",
+  "author": "mreinhardt",
   "main": "bot.js",
   "directories": {
     "commands": "commands"

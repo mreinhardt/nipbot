@@ -1,10 +1,11 @@
 /*
- * ButtheadScript by AvatarKava - beavisbot(at)phpmonkeys(dot)com
+ * NipScript by mreinhardt
+ * adapted from ButtheadScript by AvatarKava - beavisbot(at)phpmonkeys(dot)com
  * adapted from SimplePlugScript by Enyxx - arkaenyx(at)gmail(dot)com
  * This work is under CreativeCommons BY-NC-SA 3.0
  * http://creativecommons.org/licenses/by-nc-sa/3.0/legalcode*/
 nxVersion = "1.4";
-notice = "ButtheadScript v" + nxVersion + " by AvatarKava!<br />- Options in the plug menu (top left)";
+notice = "NipScript v" + nxVersion + " by mreinhardt<br />- Options in the plug menu (top left)";
 forceReload = false;
 var nx = {
     initial: function () {
